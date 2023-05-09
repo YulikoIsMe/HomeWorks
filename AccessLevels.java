@@ -1,7 +1,5 @@
 package HW17;
 
-import class18.A;
-
 public class AccessLevels {
     String model;
     int memory;
